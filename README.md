@@ -2,7 +2,7 @@
 
 In this repo, I am investigating the utility of [MONAI](https://monai.io/). MONAI's goal is to "to accelerate the pace of innovation and clinical translation by building a robust software framework that benefits nearly every level of medical imaging, deep learning research, and deployment". Essentially, less code for rapid prototyping. For reference on how hairy code can get, refer to my repo [here](https://github.com/aalhayali/MR-loc_segmentation). It shows how data handling (which is usually the biggest hurdle) can consume up to 50-60% of the code when compared to a Pytorch optimisation loop. 
 
-For the purposes of showing code succinctness, I will performing 3D UNet based image segmentation
+For the purposes of showing code succinctness, I will performing 3D UNet based image segmentation using the MR-localiser images I used for my previous segmentation project.
 
 # Dependencies
 
