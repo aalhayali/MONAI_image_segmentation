@@ -12,7 +12,7 @@ For the purposes of showing code succinctness, I will performing 3D UNet based i
 
 # Loading and training data
 
-Data in this repo was loaded in a {image,label} dictionary format. I personally find this as a nifty <sub>not the file format <sub> feature to combine data and associated label (analogous to `zip` function in Python). 
+Data in this repo was loaded in a {image,label} dictionary format. I personally find this as a nifty <sub>not the file format</sub> feature to combine data and associated label (analogous to `zip` function in Python). 
 
 # Current issue
 
